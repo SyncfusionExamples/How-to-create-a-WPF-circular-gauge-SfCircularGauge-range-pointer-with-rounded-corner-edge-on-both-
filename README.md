@@ -1,6 +1,6 @@
 # How to create a WPF circular gauge SfCircularGauge range pointer with rounded corner edge on both
 
-This repository contains sample for how to create a range pointer with rounded corner edge using the [Syncfusion WPF Circular Gauge](https://help.syncfusion.com/wpf/radial-gauge/getting-started) control.
+This repository contains sample create a range pointer with rounded corner edge using the [Syncfusion WPF Circular Gauge](https://help.syncfusion.com/wpf/radial-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/11958/how-to-create-a-wpf-circular-gauge-sfcirculargauge-range-pointer-with-rounded-corner-edge).
 
